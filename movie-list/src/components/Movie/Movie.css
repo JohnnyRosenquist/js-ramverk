@@ -1,0 +1,8 @@
+.movieRow {
+  background-color: #eee;
+  box-shadow: 0 0 5px #999;
+}
+
+span > img {
+  height: 25px;
+}
